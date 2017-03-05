@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/unixmito/divqueue/issues"
   },
-  "homepage": "https://github.com/unixmito/divqueue#readme"
+  "homepage": "https://github.com/unixmito/divqueue#readme",
+  "dependencies": {
+    "express": "^4.15.0",
+    "mongodb": "^2.2.24",
+    "q": "^1.4.1"
+  }
 }
