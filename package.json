@@ -1,0 +1,19 @@
+{
+  "name": "divqueue",
+  "version": "0.0.1",
+  "description": "/div/queue nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unixmito/divqueue.git"
+  },
+  "author": "ipfs & team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unixmito/divqueue/issues"
+  },
+  "homepage": "https://github.com/unixmito/divqueue#readme"
+}
