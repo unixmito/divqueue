@@ -18,6 +18,7 @@
   "homepage": "https://github.com/unixmito/divqueue#readme",
   "dependencies": {
     "express": "^4.15.0",
+    "jade": "^1.11.0",
     "mongodb": "^2.2.24",
     "q": "^1.4.1"
   }
